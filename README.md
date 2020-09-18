@@ -11,3 +11,5 @@ yang diambil dari https://loopchicago.com/do-business/loop-advisories/.
 
 Projek ini menganalisis pengaruh kebijakan tersebut terhadap jumlah insiden kejahatan yang dilaporkan di Kota Chicago. 
 Data insiden kejahatan yang digunakan diambil dari Google Cloud Public Datasets : Chicago Crime Data https://console.cloud.google.com/marketplace/product/city-of-chicago-public-data/chicago-crime?filter=solution-type:dataset&filter=category:public-safety&id=a985ccaf-0a3a-4eb9-a2de-c4fd07de08f0&project=key-component-271708.
+
+File yang digunakan untuk menganalisis dapat diunduh pada link berikut https://drive.google.com/file/d/1YOvk98hL9RZkG2zp81eP5DgoHd5EjrBm/view?usp=sharing.
